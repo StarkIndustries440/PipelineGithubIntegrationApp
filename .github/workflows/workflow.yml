@@ -17,6 +17,6 @@ jobs:
         uses: azure/pipelines@v1
         with:
           azure-devops-project-url: https://dev.azure.com/microsoftazure4400329/AzurePipelineGithubIntegrationProject
-          azure-pipeline-name: ${{ secrets.AZURE_PIPELINE_NAME }}
+          azure-pipeline-name: StarkIndustries440.PipelineGithubIntegrationApp
           azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
 

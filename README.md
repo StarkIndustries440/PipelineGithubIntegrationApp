@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/microsoftazure4400329/AzureDevOpsPipelineVersion2/_apis/build/status%2FStarkIndustries440.PipelineGithubIntegrationApp?branchName=master)](https://dev.azure.com/microsoftazure4400329/AzureDevOpsPipelineVersion2/_build/latest?definitionId=8&branchName=master)
